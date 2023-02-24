@@ -1,4 +1,10 @@
-### Hi there 👋
+
+Hola wave
+Mi nombre es Dario y soy desarrollador, vivo en Buenos Aires, Argentina. argentina
+
+Acerca de mí
+
+👩🏻‍💻 Software Engineer, actualmente trabajo con Android
 
 <!--
 **DaroFanelli/DaroFanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
